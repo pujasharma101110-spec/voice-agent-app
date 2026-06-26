@@ -1,0 +1,7 @@
+Unused files (2)
+src/lib/error-capture.ts
+src/server.ts           
+Unlisted dependencies (1)
+@tanstack/query-core  vite.config.ts
+Duplicate exports (1)
+listDocuments|getKnowledgeBase  src/lib/api.ts
